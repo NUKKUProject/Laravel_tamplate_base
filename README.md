@@ -1,6 +1,6 @@
 ไฟล์ Base Laravel + Postgres SQL + pdAdmin4 for web ยังไม่มี Admin tamplate
 1. เปลี่ยนขื่อไฟล์  .env.example ใน webroot เป็น .env
-2. แก้ไขการเชื่อมต่อฐานข้อมูล
+2. แก้ไขการเชื่อมต่อฐานข้อมูล ใน webroot/.env
     DB_CONNECTION=pgsql
     DB_HOST=postgresDB
     DB_PORT=5432
